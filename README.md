@@ -1,8 +1,21 @@
-# React + Vite
+# Tailwind CSS Course
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### -> Nike Landing Page
+<!-- ### This is [Tailwind CSS Full Course 2023 - Nike](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr&si=rpH_jTjD7OUg7xw5) course of [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) YouTube channel. -->
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**📌 Tailwind CSS**<br>
+**📌 React JS**
+
+
+### 🎁 Sections
+
+    - Navbar
+    - Hero
+    - Popular Products
+    - Super Quality
+    - Services
+    - Special Offer
+    - Customer Reviews
+    - Subscribe
+    - Footer
